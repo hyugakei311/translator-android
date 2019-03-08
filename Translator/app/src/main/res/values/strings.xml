@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="click_to_speak">Click to start speaking</string>
+</resources>
